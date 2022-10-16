@@ -1,4 +1,9 @@
 f1.txt: 2
+<<<<<<< HEAD
 
 Test
 Mastter Modify
+=======
+localbranch
+
+>>>>>>> localbranch
